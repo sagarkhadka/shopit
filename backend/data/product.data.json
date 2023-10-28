@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Kauffman Orchards Homegrown McIntosh Apples",
+    "price": "2.75",
+    "description": "McIntosh is a pretty red/green apple with white flesh Homegrown in Kauffman's orchards in healthy Lancaster Country soil McIntosh apples are famous for snacking, pies, salads, and appleasuse Protected with soft, high-density foam for safe shipping to your door Not for sale to california, Oregon, or washington due to state laws governing fresh produce",
+    "ratings": 5,
+    "images": [
+      {
+        "public_id": "product1",
+        "url": "https://unsplash.com/photos/red-apple-on-white-surface-zLCR7RsxYGs"
+      },
+      {
+        "public_id": "product1",
+        "url": "https://unsplash.com/photos/red-apple-fruit-gDPaDDy6_WE"
+      }
+    ],
+    "category": "Food",
+    "seller": "Kauffman's Fruit Farm & Market",
+    "stock": 500,
+    "numOfReviews": 1,
+    "reviews": []
+  },
+
+  {
+    "name": "SanDisk Ultra 125GB SDXC UHS-I Memory Card upto 80MB/s",
+    "price": "45.89",
+    "description": "Ultra-fast cards (2) to take better pictures and Full HD videos (1) with your compact to mid-range point-and-shoot cameras and camcorders. With SanDisk Ultra SDXC UHS-I cards you'll benefit form faster downloads, high capacity, and better performace to capture and store.",
+    "ratings": 5,
+    "images": [
+      {
+        "public_id": "product1",
+        "url": "https://unsplash.com/photos/red-apple-on-white-surface-zLCR7RsxYGs"
+      },
+      {
+        "public_id": "product1",
+        "url": "https://unsplash.com/photos/red-apple-fruit-gDPaDDy6_WE"
+      }
+    ],
+    "category": "Food",
+    "seller": "Kauffman's Fruit Farm & Market",
+    "stock": 500,
+    "numOfReviews": 1,
+    "reviews": []
+  }
+]
